@@ -1,4 +1,4 @@
-To run
+TO RUN
 
 
 npm install
